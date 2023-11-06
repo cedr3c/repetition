@@ -24,12 +24,18 @@
     margin-top: 20%;
 }
 
+.mg20 {
+    position: absolute;
+    z-index: 100;
+    margin-top: 0%;
+}
+
 .mg2 {
-    margin-top: 25%;
+    margin-top: 50%;
 }
 
 .mg3 {
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 
@@ -56,4 +62,56 @@
 .email {
     color: white;
     text-decoration: none;
+}
+
+.Pizza {
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    background-image: url(pizza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white2 {
+    color: white;
+    background-color: #212529;
+}
+
+#scrollspyHeading1 {
+    background-color: #212529;
+    padding: 1%;
+}
+
+.text {
+    padding: 1%;
+}
+
+.ml {
+    margin-left: 1%;
+}
+
+.carousel {
+    height: 70vh;
+}
+
+.carousel-item {
+    height: 70vh;
+}
+
+.mg22 {
+    margin-left: 50%;
+    margin-top: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.tel {
+    font-size: 600%;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.emailicon {
+    margin-top: 10%;
+    text-align: center;
 }
