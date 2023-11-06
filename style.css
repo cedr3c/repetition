@@ -1,0 +1,59 @@
+.sticky {
+
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: white;
+    color: black;
+}
+
+.nav-pills .nav-link {
+    color: white;
+}
+
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.mg {
+    margin-top: 20%;
+}
+
+.mg2 {
+    margin-top: 25%;
+}
+
+.mg3 {
+    margin-top: 15%;
+}
+
+
+.mg4 {
+    margin-top: 5%;
+}
+
+.mg5 {
+    margin-top: 10%;
+}
+
+.Emailbutton {
+    margin-top: 1%;
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+
+.email {
+    color: white;
+    text-decoration: none;
+}
